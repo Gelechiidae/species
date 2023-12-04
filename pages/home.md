@@ -1,5 +1,5 @@
 ---
-title: The title
+title: Gelechiidae of the World
 lead: Taxa from your imagination to the web
 project: Your project
 ---
