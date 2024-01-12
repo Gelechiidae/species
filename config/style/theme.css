@@ -44,3 +44,11 @@
   --color-scrollbar-thumb: 156, 163, 175;
   --color-scrollbar-track: 55, 65, 81;
 }
+.bg-hyp{
+  height: 500px;
+  width: 100%;
+  background-image: url("https://github.com/gelechiidae/species/blob/setup/pages/Friseria caieta.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
