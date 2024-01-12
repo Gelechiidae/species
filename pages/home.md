@@ -5,7 +5,7 @@ project: Your project
 ---
 <div class="flex flex-col justify-center items-center w-full h-full bg-black bg-opacity-25 text-white gap-4 px-4 box-border bg-hyp">
     <span class="text-4xl font-medium">{{ app:project_name }}</span>
-    <p class="text-lg sm:text-xl">Gelechiidae of the world Species</p>
+    <p class="text-lg sm:text-xl">Worldwide Gelechiidae Species</p>
     <div class="mx-auto flex flex-col items-center mt-6 sm:mt-10 w-full ">
       <autocomplete-otu class="w-full sm:w-96 text-base-content ml-2 sm:ml-0" placeholder="Search by taxon name" autofocus/>
     </em>
