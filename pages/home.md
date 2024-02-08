@@ -12,12 +12,10 @@ project: Worldwide Gelechiidae Species
     </div>
   </div>
 <div class="container mx-auto my-8 px-4 md:px-0 box-border">
-   
-# {{frontmatter.title}}
-_{{frontmatter.lead}}_
 
+   
 ## Overview
-Welcome to *{{ frontmatter.project }}*, a virtual catalog that aims to facilitate the taxon pages generated from the *{{ frontmatter.project }}* Project, a comprehensive collaborative effort managed in [TaxonWorks](https://taxonworks.org). 
+Welcome to *{{ frontmatter.project }}*, a virtual catalog that aims to facilitate the taxon pages generated from the {{ frontmatter.title }} Project, a comprehensive collaborative effort managed in [TaxonWorks](https://taxonworks.org). 
 
 ## Announcements 
 * 1/1/2024 - Our website is live!
