@@ -1,8 +1,8 @@
 ---
 title: About
-contact_email: user@example.com
+contact_email: slee281@asu.edu
 copyright: All content is CC 0 so that it maybe be shared throughout the world in places like Wikipedia.
-citation: Project collaborative. 2022. Website title. Available at https://example.com. 
+citation: Project collaborative. 2024. Website title. Available at https://example.com. 
 ---
 
 # {{frontmatter.title}}
@@ -13,14 +13,12 @@ Please contact us if you need extended access to the data underlying here. The T
 ## Contact
 If you have a question, want to report new data relevant to the project, or have error our preferred means of contact is to file an issue on our [project tracker](https://github.com/our/project/tracker). You can also [chat live with us](https://slackservername). We can also be reached via [email](mailto:{{frontmatter.contact_email}}).   
 
-## Team
+## Meet the Team
  _Please contact us if you would like to join this effort._
 
 Made possible by the wonderful:
-* Gandalf - Technical lead
-* Aragorn - Outside advisor 
-* Frodo - Lead curator
-* Samwise - Emotional support
+* Sangmi Lee - Arizona State University, Tempe, AZ (USA)
+* Richard Brown - Mississippi Entomological Museum, Mississippi, MS (USA)
 
 ## Citing
 * This website - {{frontmatter.citation}}
