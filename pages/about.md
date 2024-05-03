@@ -1,11 +1,13 @@
 ---
 title: About
 contact_email: slee281@asu.edu
-copyright: All content is CC 0 so that it maybe be shared throughout the world in places like Wikipedia.
-citation: Project collaborative. 2024. Website title. Available at https://example.com. 
+copyright: All content CC_BY or CC0. Please attribute correctly to authors.
+citation: Lee, S. 2024. Worldwide Gelechiidae Species. Available at https://gelechiidae.github.io/species 
 ---
 
 # {{frontmatter.title}}
+
+The collaborative site is designed to display the diversity of Gelechiidae across the world.
 
 ## Dig deeper
 Please contact us if you need extended access to the data underlying here. The TaxonWorks interfaces used to curate these data include wide range of additional filtering, reporting, and curatorial functionality. With a little training from us we'd be happy to provide you access to this additional functionality. Over time we expect this site to gradually mirror that extended functionality.
@@ -22,9 +24,10 @@ Made possible by the wonderful:
 
 ## Citing
 * This website - {{frontmatter.citation}}
-* Individual taxon pages - See citation at the bottom of each page.  
+* Individual taxon pages - See citation at the bottom of each page.
+* TaxonWorks - TaxonWorks Community (2022) TaxonWorks [software]. Species File Group (maintainers, [https://speciesfilegroup.org](https://speciesfilegroup.org). Accessible at: [https://github.com/SpeciesFileGroup/taxonworks](https://github.com/SpeciesFileGroup/taxonworks)
 
-## Data
+## Taxonomic Data
 Data for these pages is collaboratively curated online in a [TaxonWorks](https://taxonworks) project. All data behind this site served as JSON through calls to a [TaxonWorks API](https://api.taxonworks.org). You can follow along by using the Console of your browser to explore the Network tab. 
 
 ## Technical
