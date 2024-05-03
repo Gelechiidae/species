@@ -5,5 +5,8 @@
     - label: Home
       link: /
 
+    - label: Browse Catalog
+      links: /otus/10407/overview
+
     - label: About
       link: /about
